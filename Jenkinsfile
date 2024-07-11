@@ -33,7 +33,7 @@ pipeline {
             steps {
                 // Example: Deploy your application (replace with your deployment commands)
                 sh 'echo "Deploying the application..."'
-                sh './deploy.sh' // Replace with your actual deployment commands
+                //sh './deploy.sh' // Replace with your actual deployment commands
             }
         }
     }
