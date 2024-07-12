@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the code from your version control system
-                sh 'echo "no Checking out the code..."'
+                sh 'echo "no wlao out the code..."'
             }
         }
 
